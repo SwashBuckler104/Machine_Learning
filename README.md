@@ -1,2 +1,2 @@
 # Machine_Learning
-ML/AI repo
+This repository was created with the intention of learning Machine Learning using paracticle methods.
